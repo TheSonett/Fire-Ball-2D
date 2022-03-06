@@ -8,4 +8,3 @@ Open the project file using CodeBlocks IDE(Recommanded) or any other IDE & set t
 ![FireBall](/Resources/Branding/1.png?raw=true"Screenshots")
 ![FireBall](/Resources/Branding/2.png?raw=true"Screenshots")
 ![FireBall](/Resources/Branding/3.png?raw=true"Screenshots")
-Made this 2D Game for my YouTube channel to show people, How to make a 2D game using SDL2.0
