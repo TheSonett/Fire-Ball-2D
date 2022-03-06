@@ -6,7 +6,7 @@ According to your Solution Configurations (Debug/Release),
 
 If your target platform is set to x64 by default, then you just have to build the project. But if you want to build this project for x86 target platform, then go to project properties -> select for All Configurations & All Platforms -> go to the linker & set the Additional Library Directories to ...\lib\x86 (according to your target platform). Then click on Apply & then build the project.
 
-Now if you try to run the program, you'll get some DLL file missing ERRORS. DON'T get scared! You have to then copy all the DLL files from the bin folder (according to your solution platform x86/x64) & paste them into your executable binary (x86/x64) file's directory. That's it! then just run the program & play the game!
+Now if you try to run the program, you'll get some DLL file missing ERRORS. DON'T get scared! You have to then copy all the DLL files from the dll folder (according to your solution platform x86/x64) & paste them into your executable binary (x86/x64) file's directory. That's it! then just run the program & play the game!
 
 # Screenshots
 ![FireBall](/Resources/Branding/1.png?raw=true"Screenshots")
